@@ -1,0 +1,19 @@
+Update log:
+
+1/20/22 (v 1.3)
+- Added 5 themes: Original, High Contrast, Bright, Ocean, RGB
+
+1/19/22 (v 1.2)
+- Now accepts lowercase and uppercase letters as inputs
+
+1/15/22 (v 1.1)
+- Added title
+- Added instructions
+- Added win function
+- Added lose function
+- Added 50 words
+- Added word matrix
+- Added word checker
+- Added guess function
+- Added colors
+- Added keyboard
