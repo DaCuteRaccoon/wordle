@@ -7,10 +7,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// Define colors
-
 #define RESET "\x1B[0m";
-#define BOLD "\x1B[1m";
 #define RED "\x1B[41m";
 #define GREEN "\x1B[42m";
 #define YELLOW "\x1B[103m";
